@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "peggle-ai": {
+      "command": "node",
+      "args": [
+        "C:/Users/maxwe/Desktop/peggle-ai-mcp/dist/index.js"
+      ],
+      "env": {},
+      "disabled": false
+    }
+  }
+}
