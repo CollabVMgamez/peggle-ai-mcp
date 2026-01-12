@@ -11,7 +11,7 @@ This MCP server allows an AI to play Peggle by capturing the screen and controll
 
 1. **Build the server**:
    ```bash
-   npm run build
+   npm install && npm run build
    ```
 2. **Configure LM Studio**:
    - Open LM Studio and go to the **MCP** tab.
