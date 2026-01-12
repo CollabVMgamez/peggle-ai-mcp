@@ -19,9 +19,11 @@ This MCP server allows an AI to play Peggle by capturing the screen and controll
    - Set the command to `node` (ensure node is in your PATH).
    - Set the arguments to the absolute path of the built `index.js`, for example:
      `C:\Users\{youruser}\peggle-ai-mcp\dist\index.js`
+   - If needed, you can use the mcp.json already included here and paste in the json contents to your mcp.json for it to work
    - Alternatively, use `npx`:
      - Command: `npx`
      - Arguments: `-y C:\Users\maxwe\Desktop\peggle-ai-mcp`
+    
 
 3. **Start Playing**:
    - Open Peggle (make sure it's on your primary monitor).
@@ -36,4 +38,4 @@ This MCP server allows an AI to play Peggle by capturing the screen and controll
 
 ## Note on Windows 11
 
-Ensure that PowerShell execution policy allows running the commands if you encounter issues. The server uses standard PowerShell calls that should work in most default configurations.
+Ensure that PowerShell execution policy allows running the commands if you encounter issues. The server uses standard PowerShell calls that should work in most default configurations
